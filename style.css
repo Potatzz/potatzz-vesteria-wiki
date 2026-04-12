@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(42, 40, 48);
+}
+
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-size: 100px;
+    margin-top: 30px;
+}
+
+.main-title{
+    color: rgb(255,255,255);
+    margin-top: 10px;
+    text-align: left;
+    margin-left: 40px;
+    overflow: auto;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 50px;
+    overflow: auto;
+}
+
+.logo{
+    text-align: center;
+    width: auto;
+    height: 200px;
+    background-image: url('assets/vesteriaLogo.png');
+}
+
+.logo img{
+    width: 477px;
+    height: 196px;
+    display: block;
+    margin: auto auto;
+}
+
+
+.btn:hover{
+    background: #3D4BC4;
+}
+
+.btn{
+    text-align: center;
+
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    background-color: #5865F2;
+    color: rgb(255, 255, 255);
+    border: none; /* Remove borders */
+
+    color: rgb(255, 255, 255); /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+    border-radius: 5px;
+}
+
+.lower-text-container{
+    width: fit-content;
+    text-align: center;
+}
+
+#join-discord-main{
+    margin-top: 50px;
+    display: flex;
+
+    font-size: 30px;
+    color: white;
+    font-family: sans-serif;
+}
+
+#join-discord-btn-main{
+    display: block;
+    margin: 10px auto;
+    font-size: 15px;
+}

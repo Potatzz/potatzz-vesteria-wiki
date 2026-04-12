@@ -1,39 +1,51 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta content="Vesteria Wiki" property="og:title" />
-        <meta content="Discord: https://discord.gg/sFjfgwPFBt" property="og:description" />
-        <meta content="https://www.plasmamodding.org" property="og:url" />
-        <meta content="#43B581" data-react-helmet="true" name="theme-color" />
-        <link rel="icon" type="image/png" href="assets/PlasmaTech.png"/>
-        <title>VESTERIA WIKI</title>
-        <link rel="stylesheet" href="style.css">
-    </head>
+<html lang="en-US">
+        <head>
+            <meta content="Vesteria Wiki" property="og:title" />
+            <meta content="Discord: https://discord.gg/vesteria" property="og:description" />
+            <meta content="https://www.roblox.com/games/2376885433/Vesteria" property="og:url" />
+            <meta content="#43B581" data-react-helmet="true" name="theme-color" />
+            <link rel="icon" type="image/png" href="assets/siteImages/vesteriaTab.png"/>
+            <title>Vesteria Wiki</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+
     <body>
         <div class="logo">
-            <img src="assets/logohd.png" alt="">
+            <button style="background-color:rgb(42, 40, 48); border:none"onclick="window.location.href='http://localhost:63342/Vesteria%20Wiki/index.html';"><img src="assets/siteImages/vesteriaLogo.png" alt=""></button>
         </div>
-        <div class="text-box">
-            <h1>VESTERIA <span id="element"></span></h1>
-            <p><span id="Mods">Mods</span> and <span id="Tools"></span>Tools</span> for Mods</p>
-            <button class="btn" onclick="window.location.href='https://discord.gg/sFjfgwPFBt';">Discord</button>
-            <button class="btn" onclick="window.location.href='https://www.reddit.com/r/plasmagamemodding/';">Reddit</button>
-            <div class="recources">
-                <span id="duck"><img src="assets/duck.png" alt=""></span>
-                <div class="rec">
-                    <p>If you're <span id="Tools">feeling</span> overwhelmed by starting <span id="Tools">from scratch</span>, we're here to help by providing the necessary <span id="Tools">resources.</span></p>
-                    <button class="discover" onclick="window.location.href='https://www.plasmamodding.org/recources.html';">⠀View Recources⠀</button>
-                </div>
+
+        <div class="main">
+            <div class="main-title">
+                <h1>Welcome to the</h1>
+                <h1><span style="color:green" class="main-title">VE<span id="typedWiki"></span></span></h1>
+            </div>
+            <div class="lower-text-container">
+                <p><br /><br /><br /><span id="join-discord-main">Join the Discord!</span></p>
+                <button class="btn" onclick="window.location.href='https://discord.gg/vesteria';" id="join-discord-btn-main">Discord</button>
             </div>
         </div>
 
-        <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
-
+    <script src="https://unpkg.com/typed.js@2.0.15/dist/typed.umd.js"></script>
         <script>
-             var typed = new Typed('#element', {
-            strings: ['WIKI'],
-            typeSpeed: 100,
+            var typed = new Typed('#typedWiki', {
+                strings: ['STERIA WIKI'],
+                typeSpeed: 50,
             });
-        </script>
+    </script>
+
+    <div style="color:white">
+        <p>actual wiki shit here:</p>
+        <ol>initial categories
+            <li>classes</li>
+            <li>enemies/bosses</li>
+            <li>weapons & armour</li>
+            <li>consumables</li>
+            <li>locations</li>
+            <li>npcs (sorta a subcategory of locations)</li>
+            <li>quests (sorta a subcategory of npcs)</li>
+        </ol>
+    </div>
+
     </body>
 </html>

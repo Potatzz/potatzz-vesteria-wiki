@@ -4,67 +4,75 @@
       "level": 1,
       "name": "Stick",
       "class": "Adventurer",
-      "atk": "15",
-      "stats": []
+      "atk": 15,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 1,
       "name": "Oak Axe",
       "class": "Adventurer",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+4 Woodcutting"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 2,
       "name": "Wooden Club",
       "class": "Adventurer",
-      "atk": "21",
-      "stats": []
+      "atk": 21,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 3,
       "name": "Wood Sword",
       "class": "Adventurer",
-      "atk": "26",
-      "stats": []
+      "atk": 26,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 5,
       "name": "Pitchfork",
       "class": "Adventurer",
-      "atk": "34",
-      "stats": []
+      "atk": 34,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 5,
       "name": "Rake",
       "class": "Adventurer",
-      "atk": "34",
-      "stats": []
+      "atk": 34,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 6,
       "name": "Oak Polearm",
       "class": "Adventurer",
-      "atk": "37",
+      "atk": 37,
       "stats": [
         "+15 Physical ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 8,
       "name": "Frying Pan",
       "class": "Adventurer",
-      "atk": "44",
-      "stats": []
+      "atk": 44,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 8,
       "name": "Mushroom Wand",
       "class": "Adventurer",
-      "atk": "44",
+      "atk": 44,
       "stats": [
         "+2 INT"
       ],
@@ -74,8 +82,9 @@
       "level": 8,
       "name": "Shovel",
       "class": "Adventurer",
-      "atk": "53",
-      "stats": []
+      "atk": 53,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 10,
@@ -92,20 +101,22 @@
       "name": "Wooden Dagger",
       "class": "Hunter",
       "atk": 50,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 10,
       "name": "Wooden Bow",
       "class": "Hunter",
-      "atk": "50",
-      "stats": []
+      "atk": 50,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 10,
       "name": "Caroler's Cane",
       "class": "Mage",
-      "atk": "50",
+      "atk": 50,
       "stats": [
         "+5 INT"
       ],
@@ -115,30 +126,33 @@
       "level": 10,
       "name": "Tree Branch Staff",
       "class": "Mage",
-      "atk": "50",
-      "stats": []
+      "atk": 50,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 10,
       "name": "Training Staff",
       "class": "Mage",
-      "atk": "50",
-      "stats": []
+      "atk": 50,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 10,
       "name": "Acolyte Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+15 Magic ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 10,
       "name": "Caroler's Brand",
       "class": "Warrior",
-      "atk": "50",
+      "atk": 50,
       "stats": [
         "+5 STR"
       ],
@@ -148,26 +162,29 @@
       "level": 10,
       "name": "Rusty Sword",
       "class": "Warrior",
-      "atk": "50",
-      "stats": []
+      "atk": 50,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 11,
       "name": "Orc Club",
       "class": "Adventurer",
-      "atk": "63",
+      "atk": 63,
       "stats": [
         "-5% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 12,
       "name": "Orc Greataxe",
       "class": "Warrior",
-      "atk": "61",
+      "atk": 61,
       "stats": [
         "+5% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 13,
@@ -182,20 +199,22 @@
       "name": "Rusty Dagger",
       "class": "Hunter",
       "atk": 59,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 13,
       "name": "Ancient Staff",
       "class": "Mage",
-      "atk": "59",
-      "stats": []
+      "atk": 59,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 13,
       "name": "Mushroom Staff",
       "class": "Mage",
-      "atk": "69",
+      "atk": 69,
       "stats": [],
       "perk": "Spore Cloud"
     },
@@ -203,14 +222,15 @@
       "level": 13,
       "name": "Bronze Sword",
       "class": "Warrior",
-      "atk": "59",
-      "stats": []
+      "atk": 59,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 13,
       "name": "Mushroom Sword",
       "class": "Warrior",
-      "atk": "69",
+      "atk": 69,
       "stats": [],
       "perk": "Bounceback"
     },
@@ -218,10 +238,11 @@
       "level": 13,
       "name": "Greataxe",
       "class": "Adventurer",
-      "atk": "59",
+      "atk": 59,
       "stats": [
         "+24 Physical ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 15,
@@ -230,20 +251,22 @@
       "atk": 65,
       "stats": [
         "+15 Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Hunting Bow",
       "class": "Hunter",
-      "atk": "65",
-      "stats": []
+      "atk": 65,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Frozen Root Bow",
       "class": "Hunter",
-      "atk": "70",
+      "atk": 70,
       "stats": [],
       "perk": "Cryo Cascades"
     },
@@ -251,53 +274,59 @@
       "level": 15,
       "name": "Witches Broom",
       "class": "Mage",
-      "atk": "65",
+      "atk": 65,
       "stats": [
         "+15 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Willow Staff",
       "class": "Mage",
-      "atk": "65",
-      "stats": []
+      "atk": 65,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Apprentice Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+21 Magic ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Bone Sword",
       "class": "Warrior",
-      "atk": "65",
+      "atk": 65,
       "stats": [
         "+15 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Bronze Mace",
       "class": "Warrior",
-      "atk": "65",
-      "stats": []
+      "atk": 65,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 15,
       "name": "Gold Cutlass",
       "class": "Warrior",
-      "atk": "70",
+      "atk": 70,
       "stats": [
         "+5% Critical Chance",
         "+5% ATK Speed",
         "+5% Fortune"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 16,
@@ -306,7 +335,8 @@
       "atk": 72,
       "stats": [
         "+5% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 17,
@@ -323,7 +353,8 @@
       "atk": 73,
       "stats": [
         "+15% ATK Speed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 18,
@@ -332,30 +363,34 @@
       "atk": 88,
       "stats": [
         "-75 Max HP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 18,
       "name": "Corvus Bow",
       "class": "Hunter",
-      "atk": "73",
+      "atk": 73,
       "stats": [
         "+15% ATK Speed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 18,
       "name": "Lapis Staff",
       "class": "Mage",
-      "atk": "73",
-      "stats": []
+      "atk": 73,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 19,
       "name": "Iron Sword",
       "class": "Warrior",
-      "atk": "75",
-      "stats": []
+      "atk": 75,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 20,
@@ -364,7 +399,8 @@
       "atk": 83,
       "stats": [
         "+15% ATK Speed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
@@ -373,7 +409,8 @@
       "atk": 62,
       "stats": [
         "+15% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
@@ -390,7 +427,7 @@
       "level": 20,
       "name": "Redwood Bandit Bow",
       "class": "Hunter",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+5 DEX"
       ],
@@ -400,16 +437,17 @@
       "level": 20,
       "name": "Snapping Staff",
       "class": "Mage",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+5% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
       "name": "Redwood Bandit Staff",
       "class": "Mage",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+5 INT"
       ],
@@ -419,16 +457,17 @@
       "level": 20,
       "name": "Chela Sword",
       "class": "Warrior",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+45 Magic ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
       "name": "Redwood Bandit Sword",
       "class": "Warrior",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+5 STR"
       ],
@@ -438,26 +477,28 @@
       "level": 20,
       "name": "The Stinger",
       "class": "Warrior",
-      "atk": "78",
+      "atk": 78,
       "stats": [
         "+10% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
       "name": "Yeti Antler Club",
       "class": "Warrior",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+34 Physical ATK",
         "+12STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 20,
       "name": "Chicken Pen",
       "class": "Adventurer",
-      "atk": "83",
+      "atk": 83,
       "stats": [],
       "perk": "Chicken Coop"
     },
@@ -465,7 +506,7 @@
       "level": 20,
       "name": "Crowbar",
       "class": "Adventurer",
-      "atk": "83",
+      "atk": 83,
       "stats": [],
       "perk": "Bird Throw"
     },
@@ -473,21 +514,23 @@
       "level": 20,
       "name": "Mythic Rake",
       "class": "Adventurer",
-      "atk": "83",
+      "atk": 83,
       "stats": [
         "+10% Critical Chance",
         "+12% XP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 21,
       "name": "Magus Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+25 Magic ATK",
         "+3 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 25,
@@ -496,14 +539,16 @@
       "atk": 96,
       "stats": [
         "+8 DEX"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 25,
       "name": "Root Hatchet",
       "class": "Hunter",
       "atk": 96,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 25,
@@ -529,7 +574,7 @@
       "level": 25,
       "name": "Root Bow",
       "class": "Hunter",
-      "atk": "96",
+      "atk": 96,
       "stats": [],
       "perk": "Salvage Shot"
     },
@@ -537,7 +582,7 @@
       "level": 25,
       "name": "Spider Leg Bow",
       "class": "Hunter",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+5% Critical Chance"
       ],
@@ -547,7 +592,7 @@
       "level": 25,
       "name": "Fungi Staff",
       "class": "Mage",
-      "atk": "96",
+      "atk": 96,
       "stats": [],
       "perk": "Mana Sap"
     },
@@ -555,7 +600,7 @@
       "level": 25,
       "name": "Cold Webbed Staff",
       "class": "Mage",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+3% Magical Damage Increase"
       ],
@@ -565,7 +610,7 @@
       "level": 25,
       "name": "Webbed Staff",
       "class": "Mage",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+3% Magical Damage Increase"
       ],
@@ -575,7 +620,7 @@
       "level": 25,
       "name": "Uprooted Blade",
       "class": "Warrior",
-      "atk": "101",
+      "atk": 101,
       "stats": [],
       "perk": "Splinter"
     },
@@ -583,7 +628,7 @@
       "level": 25,
       "name": "Royal Fang",
       "class": "Warrior",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+5% Critical Damage",
         "+30% ATK Speed"
@@ -594,7 +639,7 @@
       "level": 25,
       "name": "Cold Royal Fang",
       "class": "Warrior",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+5% Critical Damage",
         "+30% ATK Speed"
@@ -605,7 +650,7 @@
       "level": 26,
       "name": "Jellyfish Staff",
       "class": "Mage",
-      "atk": "98",
+      "atk": 98,
       "stats": [
         "+4 INT"
       ],
@@ -618,7 +663,8 @@
       "atk": 96,
       "stats": [
         "+2 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 27,
@@ -632,25 +678,27 @@
       "level": 27,
       "name": "Ravager Bow",
       "class": "Hunter",
-      "atk": "96",
+      "atk": 96,
       "stats": [
         "+2 DEX"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 27,
       "name": "Barbarian Staff",
       "class": "Mage",
-      "atk": "96",
+      "atk": 96,
       "stats": [
         "+2 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 27,
       "name": "Pearl Staff",
       "class": "Mage",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+5% Critical Chance"
       ],
@@ -660,34 +708,37 @@
       "level": 27,
       "name": "Sun Staff",
       "class": "Mage",
-      "atk": "96",
-      "stats": []
+      "atk": 96,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 27,
       "name": "Bloodmage Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+28 Magic ATK",
         "+50% Hp Recovery",
         "+3 VIT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 27,
       "name": "Barbarian Sword",
       "class": "Warrior",
-      "atk": "96",
+      "atk": 96,
       "stats": [
         "+2 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 27,
       "name": "Coral Club",
       "class": "Warrior",
-      "atk": "101",
+      "atk": 101,
       "stats": [
         "+4 STR"
       ],
@@ -697,28 +748,31 @@
       "level": 27,
       "name": "Cutlass",
       "class": "Warrior",
-      "atk": "96",
-      "stats": []
+      "atk": 96,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "Marauder Dagger",
       "class": "Hunter",
       "atk": 98,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "Marauder Bow",
       "class": "Hunter",
-      "atk": "98",
-      "stats": []
+      "atk": 98,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "Charged Jellyfish Staff",
       "class": "Mage",
-      "atk": "103",
+      "atk": 103,
       "stats": [
         "+6 INT"
       ],
@@ -728,14 +782,15 @@
       "level": 28,
       "name": "Lunar Staff",
       "class": "Mage",
-      "atk": "98",
-      "stats": []
+      "atk": 98,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "The Enchiridion",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+28 Magic ATK",
         "+10 INT"
@@ -746,24 +801,26 @@
       "level": 28,
       "name": "Lunar Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+28 Magic ATK",
         "+6 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "Steel Sword",
       "class": "Warrior",
-      "atk": "98",
-      "stats": []
+      "atk": 98,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 28,
       "name": "Pirate Hook",
       "class": "Adventurer",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+5% Critical CHance",
         "+5% ATK Speed",
@@ -794,7 +851,7 @@
       "level": 30,
       "name": "Carrot Bow",
       "class": "Hunter",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+6 DEX"
       ],
@@ -804,39 +861,42 @@
       "level": 30,
       "name": "Basic Drum",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+30 Magic ATK",
         "+10% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Wooden Flute",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+30 Magic ATK",
         "+1 Stamina",
         "+20 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Basic Lyre",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+30 Magic ATK",
         "+100 Max HP",
         "+20 VIT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Basket Staff",
       "class": "Mage",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+5% Ability Radius",
         "+6 INT"
@@ -847,7 +907,7 @@
       "level": 30,
       "name": "Scarecrow Scythe",
       "class": "Mage",
-      "atk": "123",
+      "atk": 123,
       "stats": [],
       "perk": "The Reaper"
     },
@@ -855,7 +915,7 @@
       "level": 30,
       "name": "Frozen Snapping Staff",
       "class": "Mage",
-      "atk": "108",
+      "atk": 108,
       "stats": [],
       "perk": "Cryo Cascades"
     },
@@ -863,7 +923,7 @@
       "level": 30,
       "name": "Peppermint Staff",
       "class": "Mage",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+6 INT"
       ],
@@ -873,7 +933,7 @@
       "level": 30,
       "name": "Whispering Willow Staff",
       "class": "Mage",
-      "atk": "112",
+      "atk": 112,
       "stats": [
         "+5% Critical Chance"
       ],
@@ -883,7 +943,7 @@
       "level": 30,
       "name": "Monarch Keeper's Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+10 INT"
       ],
@@ -893,7 +953,7 @@
       "level": 30,
       "name": "Bouquet Blade",
       "class": "Warrior",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+6 STR"
       ],
@@ -903,7 +963,7 @@
       "level": 30,
       "name": "Accursed Edge",
       "class": "Warrior",
-      "atk": "123",
+      "atk": 123,
       "stats": [
         "+46 Physical ATK"
       ],
@@ -913,7 +973,7 @@
       "level": 30,
       "name": "Decorated Antler",
       "class": "Warrior",
-      "atk": "108",
+      "atk": 108,
       "stats": [
         "+4 STR",
         "+2 VIT"
@@ -924,18 +984,19 @@
       "level": 30,
       "name": "Bulwark of the Order",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+175 Max HP",
         "+5 STR",
         "+5 VIT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Helm Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+125 Max HP",
         "+5% Critical Chance"
@@ -946,27 +1007,29 @@
       "level": 30,
       "name": "Crustacean Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+125 Max HP",
         "+15% Warding"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Steel Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+25 Physical DEF",
         "+125 Max HP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
       "name": "Toboggan Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+300 Max HP"
       ],
@@ -976,10 +1039,11 @@
       "level": 30,
       "name": "Steel Warhammer",
       "class": "Paladin",
-      "atk": "103",
+      "atk": 103,
       "stats": [
         "+42 Physical ATK"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 30,
@@ -993,7 +1057,7 @@
       "level": 32,
       "name": "Supercharged Jellyfish Staff",
       "class": "Mage",
-      "atk": "118",
+      "atk": 118,
       "stats": [
         "+8 INT"
       ],
@@ -1003,17 +1067,18 @@
       "level": 33,
       "name": "Surveyor Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+31 Magic ATK",
         "+1 Walkspeed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 33,
       "name": "Moko Spear",
       "class": "Adventurer",
-      "atk": "111",
+      "atk": 111,
       "stats": [
         "+15% Critical Damage"
       ],
@@ -1031,7 +1096,7 @@
       "level": 35,
       "name": "Tuaa Bow",
       "class": "Hunter",
-      "atk": "121",
+      "atk": 121,
       "stats": [],
       "perk": "Rhythmic Splintering"
     },
@@ -1039,7 +1104,7 @@
       "level": 35,
       "name": "Moko Drum",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+35 Magic ATK",
         "+5% Critical Damage",
@@ -1051,7 +1116,7 @@
       "level": 35,
       "name": "Tuaa Staff",
       "class": "Mage",
-      "atk": "121",
+      "atk": 121,
       "stats": [],
       "perk": "Rhythmic Invocation"
     },
@@ -1059,7 +1124,7 @@
       "level": 35,
       "name": "Frozen Moko Club",
       "class": "Warrior",
-      "atk": "121",
+      "atk": 121,
       "stats": [],
       "perk": "Cryo Cascades"
     },
@@ -1067,7 +1132,7 @@
       "level": 35,
       "name": "Moko Club",
       "class": "Warrior",
-      "atk": "121",
+      "atk": 121,
       "stats": [],
       "perk": "Rhythmic Ferocity"
     },
@@ -1075,7 +1140,7 @@
       "level": 35,
       "name": "Tuaa Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+20% Block Chance"
       ],
@@ -1085,7 +1150,7 @@
       "level": 35,
       "name": "Moko Maul",
       "class": "Paladin",
-      "atk": "121",
+      "atk": 121,
       "stats": [
         "+49 Physical ATK"
       ],
@@ -1095,7 +1160,7 @@
       "level": 35,
       "name": "Scavenged Revolver",
       "class": "Adventurer",
-      "atk": "113",
+      "atk": 113,
       "stats": [],
       "perk": "Revolver Shot"
     },
@@ -1104,7 +1169,8 @@
       "name": "Black Steel Karambit",
       "class": "Hunter",
       "atk": 129,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 40,
@@ -1124,22 +1190,24 @@
       "stats": [
         "+15% Critical Chance",
         "+15% XP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 40,
       "name": "Frostbite",
       "class": "Hunter",
-      "atk": "154",
+      "atk": 154,
       "stats": [
         "+10 Festivity"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 40,
       "name": "Blistergrass Staff",
       "class": "Mage",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+50% MP Recovery",
         "+8 INT"
@@ -1150,7 +1218,7 @@
       "level": 40,
       "name": "Ornamental Branch",
       "class": "Mage",
-      "atk": "154",
+      "atk": 154,
       "stats": [
         "+10 Festivity"
       ],
@@ -1160,32 +1228,35 @@
       "level": 40,
       "name": "Scrap Staff",
       "class": "Mage",
-      "atk": "129",
-      "stats": []
+      "atk": 129,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 40,
       "name": "Artificer's Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+34 Magic ATK",
         "+5 DEX",
         "+5 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 40,
       "name": "Bronze Scimitar",
       "class": "Warrior",
-      "atk": "129",
-      "stats": []
+      "atk": 129,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 40,
       "name": "Toy Sword",
       "class": "Warrior",
-      "atk": "154",
+      "atk": 154,
       "stats": [
         "+10 Festivity"
       ],
@@ -1195,7 +1266,7 @@
       "level": 40,
       "name": "Bubble Wand",
       "class": "Adventurer",
-      "atk": "139",
+      "atk": 139,
       "stats": [
         "-6 STR",
         "-6 VIT",
@@ -1208,7 +1279,7 @@
       "level": 40,
       "name": "Gecko Tongue",
       "class": "Adventurer",
-      "atk": "139",
+      "atk": 139,
       "stats": [],
       "perk": "Whip Attack"
     },
@@ -1245,7 +1316,7 @@
       "level": 42,
       "name": "Digger's First Resort",
       "class": "Hunter",
-      "atk": "134",
+      "atk": 134,
       "stats": [],
       "perk": "Just in Case"
     },
@@ -1253,7 +1324,7 @@
       "level": 42,
       "name": "Dustwurm Longbow",
       "class": "Hunter",
-      "atk": "139",
+      "atk": 139,
       "stats": [
         "+10% Critical Chance"
       ],
@@ -1263,16 +1334,17 @@
       "level": 42,
       "name": "Sand-Ravaged Bow",
       "class": "Hunter",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+15% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 42,
       "name": "Stingtail Staff",
       "class": "Mage",
-      "atk": "139",
+      "atk": 139,
       "stats": [],
       "perk": "Weakening Venom"
     },
@@ -1280,7 +1352,7 @@
       "level": 42,
       "name": "Sun-Scorched Branch",
       "class": "Mage",
-      "atk": "134",
+      "atk": 134,
       "stats": [],
       "perk": "Sun-Steps"
     },
@@ -1288,16 +1360,17 @@
       "level": 42,
       "name": "Ancient Jawbone",
       "class": "Warrior",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+45% ATK Speed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 42,
       "name": "Dustwurm Cudgel",
       "class": "Warrior",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+54 Physical ATK",
         "+15 STR"
@@ -1308,35 +1381,38 @@
       "level": 42,
       "name": "Sand-ravaged Scimitar",
       "class": "Warrior",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+15% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 42,
       "name": "Savage Axe",
       "class": "Warrior",
-      "atk": "134",
+      "atk": 134,
       "stats": [
         "+54 Physical ATK",
         "+5% Damage Dealt",
         "-20 DEX",
         "+40 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 43,
       "name": "Diver's Lamp",
       "class": "Adventurer",
-      "atk": "41",
-      "stats": []
+      "atk": 41,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 44,
       "name": "Chitin Bow",
       "class": "Hunter",
-      "atk": "144",
+      "atk": 144,
       "stats": [
         "+20% ATK Speed"
       ],
@@ -1346,7 +1422,7 @@
       "level": 44,
       "name": "Agave Staff",
       "class": "Mage",
-      "atk": "144",
+      "atk": 144,
       "stats": [
         "+6 INT"
       ],
@@ -1356,7 +1432,7 @@
       "level": 44,
       "name": "Hag Staff",
       "class": "Mage",
-      "atk": "144",
+      "atk": 144,
       "stats": [
         "+5 INT"
       ],
@@ -1366,7 +1442,7 @@
       "level": 44,
       "name": "Cholla Blade",
       "class": "Warrior",
-      "atk": "144",
+      "atk": 144,
       "stats": [
         "+6 STR"
       ],
@@ -1379,7 +1455,8 @@
       "atk": 141,
       "stats": [
         "+6 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
@@ -1390,7 +1467,8 @@
         "+10 Heal & Shield Power",
         "+10% Ability Radius",
         "+5 DEX"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
@@ -1426,7 +1504,7 @@
       "level": 45,
       "name": "Auktufiti's Balista",
       "class": "Hunter",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+6 STR"
       ],
@@ -1436,7 +1514,7 @@
       "level": 45,
       "name": "Astrologist's Scepter",
       "class": "Mage",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+3% Magic Damage Increase"
       ],
@@ -1446,7 +1524,7 @@
       "level": 45,
       "name": "Chitin Scythe",
       "class": "Mage",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+10 VIT"
       ],
@@ -1456,7 +1534,7 @@
       "level": 45,
       "name": "Elven Hero Staff",
       "class": "Mage",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+8 INT"
       ],
@@ -1466,29 +1544,31 @@
       "level": 45,
       "name": "Kobra Staff",
       "class": "Mage",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+10% Heal & Shield Power",
         "+10% Abilty Radius",
         "+5 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
       "name": "Bejeweled Kobra Staff",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+10% Heal & Shield Power",
         "+15% Abilty Radius",
         "+5 INT"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
       "name": "Starshroom Staff",
       "class": "Mage",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+3% Magic Damage Increase"
       ],
@@ -1498,7 +1578,7 @@
       "level": 45,
       "name": "Dune Explorer's Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+33 Magic ATK",
         "+5 INT"
@@ -1509,7 +1589,7 @@
       "level": 45,
       "name": "Azariah's Edge",
       "class": "Warrior",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+10% Critical Chance"
       ],
@@ -1519,26 +1599,28 @@
       "level": 45,
       "name": "Chipped Katana",
       "class": "Warrior",
-      "atk": "141",
+      "atk": 141,
       "stats": [
         "+5 STR",
         "-2 DEX"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
       "name": "Hermit Sword",
       "class": "Warrior",
-      "atk": "141",
+      "atk": 141,
       "stats": [
         "+6 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
       "name": "Sarakis' Impaler",
       "class": "Warrior",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+5 STR"
       ],
@@ -1548,7 +1630,7 @@
       "level": 45,
       "name": "Starshroom Sword",
       "class": "Warrior",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+5% Critical Chance"
       ],
@@ -1558,16 +1640,17 @@
       "level": 45,
       "name": "Sun Blade",
       "class": "Warrior",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+10 STR"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 45,
       "name": "Vesra's Eviscerator",
       "class": "Warrior",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+100 Max HP"
       ],
@@ -1577,7 +1660,7 @@
       "level": 45,
       "name": "Tuthaffa's Buckler",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+250 Max HP",
         "+1 Stamina"
@@ -1588,7 +1671,7 @@
       "level": 45,
       "name": "Starshroom Wand",
       "class": "Adventurer",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+ 5 INT"
       ],
@@ -1601,13 +1684,14 @@
       "atk": 146,
       "stats": [
         "+10% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 47,
       "name": "Reef Bow",
       "class": "Hunter",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+5% Fortune"
       ],
@@ -1617,7 +1701,7 @@
       "level": 47,
       "name": "Scrap Bow",
       "class": "Hunter",
-      "atk": "151",
+      "atk": 151,
       "stats": [],
       "perk": "Tetanus"
     },
@@ -1625,7 +1709,7 @@
       "level": 47,
       "name": "Slime Staff",
       "class": "Mage",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+10% Heal & Shield Power"
       ],
@@ -1635,7 +1719,7 @@
       "level": 47,
       "name": "Conjured Trident",
       "class": "Mage",
-      "atk": "146",
+      "atk": 146,
       "stats": [],
       "perk": "Thunderstruck"
     },
@@ -1643,7 +1727,7 @@
       "level": 47,
       "name": "Fallen Blade",
       "class": "Knight",
-      "atk": "173",
+      "atk": 173,
       "stats": [
         "+5 STR",
         "+8 VIT"
@@ -1654,16 +1738,17 @@
       "level": 47,
       "name": "Scrap Sword",
       "class": "Warrior",
-      "atk": "151",
+      "atk": 151,
       "stats": [
         "+20% Critical Damage"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 47,
       "name": "Barrel Hammer",
       "class": "Warrior",
-      "atk": "146",
+      "atk": 146,
       "stats": [
         "+59 Physical ATK",
         "+3% Magic Damage Increase"
@@ -1674,7 +1759,7 @@
       "level": 47,
       "name": "Broken Bottle",
       "class": "Adventurer",
-      "atk": "146",
+      "atk": 146,
       "stats": [],
       "perk": "Shank"
     },
@@ -1682,7 +1767,7 @@
       "level": 47,
       "name": "Weathered Anchor",
       "class": "Adventurer",
-      "atk": "190",
+      "atk": 190,
       "stats": [
         "+76 Physical ATK",
         "-2 Walkspeed"
@@ -1710,7 +1795,8 @@
       "name": "Neptune Dagger",
       "class": "Hunter",
       "atk": 152,
-      "stats": []
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 49,
@@ -1726,7 +1812,7 @@
       "level": 49,
       "name": "Forgotten Bow",
       "class": "Hunter",
-      "atk": "162",
+      "atk": 162,
       "stats": [
         "+10% Critical Chance"
       ],
@@ -1736,7 +1822,7 @@
       "level": 49,
       "name": "Forgotten Staff",
       "class": "Mage",
-      "atk": "162",
+      "atk": 162,
       "stats": [
         "+3% Magic Damage Incrase"
       ],
@@ -1746,17 +1832,18 @@
       "level": 49,
       "name": "Artifact Aegis",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+5% Damage Dealt",
         "+400 Max HP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 49,
       "name": "Tortoise Targe",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+450 Max HP"
       ],
@@ -1766,7 +1853,7 @@
       "level": 49,
       "name": "Bat-tle Axe",
       "class": "Warrior",
-      "atk": "162",
+      "atk": 162,
       "stats": [
         "+65 Physical ATK",
         "+150 Max HP",
@@ -1778,7 +1865,7 @@
       "level": 49,
       "name": "Forgotten Axe",
       "class": "Paladin",
-      "atk": "162",
+      "atk": 162,
       "stats": [
         "+65 Physical ATK",
         "+3% Magic Damage Increase"
@@ -1870,17 +1957,18 @@
       "level": 50,
       "name": "Mythic Frostbite",
       "class": "Hunter",
-      "atk": "166",
+      "atk": 166,
       "stats": [
         "+10% Critical Chance",
         "+12% XP"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 50,
       "name": "Golden Dragon Bow",
       "class": "Hunter",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+3 INT"
       ],
@@ -1890,7 +1978,7 @@
       "level": 50,
       "name": "Dragon Bow",
       "class": "Hunter",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+3 DEX"
       ],
@@ -1900,7 +1988,7 @@
       "level": 50,
       "name": "Ornate Bow",
       "class": "Hunter",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+8 INT"
       ],
@@ -1910,7 +1998,7 @@
       "level": 50,
       "name": "Tribute Lyre",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+50 Magic ATK",
         "+10% Ability Radius",
@@ -1922,7 +2010,7 @@
       "level": 50,
       "name": "Mythic Ornamental Branch",
       "class": "Mage",
-      "atk": "166",
+      "atk": 166,
       "stats": [
         "+12% XP",
         "+10 INT"
@@ -1933,7 +2021,7 @@
       "level": 50,
       "name": "Golden Dragon Staff",
       "class": "Mage",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+3 INT"
       ],
@@ -1943,7 +2031,7 @@
       "level": 50,
       "name": "Wicked Witch Branch",
       "class": "Mage",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+5% Critical Chance",
         "+5 INT"
@@ -1954,7 +2042,7 @@
       "level": 50,
       "name": "Leviathan Scythe",
       "class": "Mage",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+15 INT"
       ],
@@ -1964,7 +2052,7 @@
       "level": 50,
       "name": "Ornate Staff",
       "class": "Mage",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+8 INT"
       ],
@@ -1974,7 +2062,7 @@
       "level": 50,
       "name": "Capra's Staff",
       "class": "Mage",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+7 INT"
       ],
@@ -1984,7 +2072,7 @@
       "level": 50,
       "name": "Tome of Brewery",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+37 Magic ATK",
         "+5% Critical Chance",
@@ -1996,18 +2084,19 @@
       "level": 50,
       "name": "Capra's Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+40 Magic ATK",
         "+30 Magic DEF",
         "+5% Ability Radius"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 50,
       "name": "Abyssal Sword",
       "class": "Warrior",
-      "atk": "170",
+      "atk": 170,
       "stats": [
         "+10% Critical Chance"
       ],
@@ -2017,7 +2106,7 @@
       "level": 50,
       "name": "Mythic Toy Sword",
       "class": "Warrior",
-      "atk": "166",
+      "atk": 166,
       "stats": [
         "+10 STR",
         "+12% XP"
@@ -2028,7 +2117,7 @@
       "level": 50,
       "name": "Golden Dragon Sword",
       "class": "Warrior",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+3 STR"
       ],
@@ -2038,7 +2127,7 @@
       "level": 50,
       "name": "Ghostly Blade",
       "class": "Warrior",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+10% ATK Speed"
       ],
@@ -2048,7 +2137,7 @@
       "level": 50,
       "name": "Katana",
       "class": "Warrior",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+5 DEX"
       ],
@@ -2058,7 +2147,7 @@
       "level": 50,
       "name": "Sawshark Sword",
       "class": "Warrior",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+15 STR"
       ],
@@ -2068,7 +2157,7 @@
       "level": 50,
       "name": "Valkyrie Hammer",
       "class": "Warrior",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+7 STR"
       ],
@@ -2078,7 +2167,7 @@
       "level": 50,
       "name": "Bamboo Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+225 Max HP",
         "+50% HP Recovery",
@@ -2090,7 +2179,7 @@
       "level": 50,
       "name": "Golden Dragon Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+125 Max HP",
         "+10% Ability Radius"
@@ -2101,7 +2190,7 @@
       "level": 50,
       "name": "Ornate Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+250 Max HP",
         "+10% Warding"
@@ -2112,7 +2201,7 @@
       "level": 50,
       "name": "Ram Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+250 Max HP",
         "-10% Stamina Drain"
@@ -2123,7 +2212,7 @@
       "level": 50,
       "name": "Bisento",
       "class": "Warrior",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+66 Physical ATK",
         "+100 Max HP",
@@ -2135,7 +2224,7 @@
       "level": 50,
       "name": "Golden Dragon Bisento",
       "class": "Warrior",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+66 Physical ATK",
         "+12 INT"
@@ -2146,7 +2235,7 @@
       "level": 50,
       "name": "Ornate Sword",
       "class": "Warrior",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+66 Physical ATK",
         "+12 INT"
@@ -2157,7 +2246,7 @@
       "level": 50,
       "name": "Valkyrie Edge",
       "class": "Paladin",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+64 Physical ATK",
         "+14 STR"
@@ -2168,7 +2257,7 @@
       "level": 50,
       "name": "Gnome Rocket Launcher",
       "class": "Adventurer",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+25% ATK Speed"
       ],
@@ -2178,7 +2267,7 @@
       "level": 50,
       "name": "Salamander",
       "class": "Adventurer",
-      "atk": "164",
+      "atk": 164,
       "stats": [
         "+100 Max MP",
         "+100 Max HP"
@@ -2189,7 +2278,7 @@
       "level": 50,
       "name": "Shuriken",
       "class": "Adventurer",
-      "atk": "159",
+      "atk": 159,
       "stats": [
         "+10% ATK Speed"
       ],
@@ -2199,7 +2288,7 @@
       "level": 51,
       "name": "Brine Sabre",
       "class": "Warrior",
-      "atk": "157",
+      "atk": 157,
       "stats": [
         "+5% Ability Radius",
         "+5% Critical Chance"
@@ -2210,17 +2299,18 @@
       "level": 53,
       "name": "First Mate's Anchor",
       "class": "Adventurer",
-      "atk": "211",
+      "atk": 211,
       "stats": [
         "+85 Physical ATK",
         "-1 Walkspeed"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 53,
       "name": "Frozen First Mate's Anchor",
       "class": "Adventurer",
-      "atk": "211",
+      "atk": 211,
       "stats": [
         "+85 Physical ATK",
         "-1 Walkspeed"
@@ -2241,7 +2331,7 @@
       "level": 54,
       "name": "Abyssal Bow",
       "class": "Hunter",
-      "atk": "170",
+      "atk": 170,
       "stats": [
         "+5% Critical Chance"
       ],
@@ -2277,7 +2367,7 @@
       "level": 55,
       "name": "Phantom Bow",
       "class": "Hunter",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Spectral Barrage + Ghostfire's Touch"
     },
@@ -2285,7 +2375,7 @@
       "level": 55,
       "name": "Haunted Phantom Bow",
       "class": "Hunter",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "The Haunting"
     },
@@ -2293,7 +2383,7 @@
       "level": 55,
       "name": "Jade Bow",
       "class": "Hunter",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+6 STR",
         "+6 INT"
@@ -2304,7 +2394,7 @@
       "level": 55,
       "name": "Poltergeist's Scepter",
       "class": "Mage",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Ghostflame Missile + Ghostfire's Touch"
     },
@@ -2312,7 +2402,7 @@
       "level": 55,
       "name": "Haunted Poltergeist's Scepter",
       "class": "Mage",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "The Haunting"
     },
@@ -2320,7 +2410,7 @@
       "level": 55,
       "name": "Jade Staff",
       "class": "Mage",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+12 INT"
       ],
@@ -2330,7 +2420,7 @@
       "level": 55,
       "name": "Tomestone",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+35 Magic ATK",
         "+3 INT"
@@ -2341,7 +2431,7 @@
       "level": 55,
       "name": "Haunted Tomestone",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+35 Magic ATK",
         "+3 INT"
@@ -2352,7 +2442,7 @@
       "level": 55,
       "name": "Jade Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+42 Magic ATK",
         "+6 INT"
@@ -2363,7 +2453,7 @@
       "level": 55,
       "name": "Soulburn Edge",
       "class": "Warrior",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Ghostflame Slam + Ghostfire's Touch"
     },
@@ -2371,7 +2461,7 @@
       "level": 55,
       "name": "HauntedSoulburn Edge",
       "class": "Warrior",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "The Haunting"
     },
@@ -2379,7 +2469,7 @@
       "level": 55,
       "name": "Gilded Katana",
       "class": "Warrior",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+6 STR",
         "+6 DEX"
@@ -2390,7 +2480,7 @@
       "level": 55,
       "name": "Jade Blade",
       "class": "Warrior",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+6 STR",
         "+6 INT"
@@ -2401,7 +2491,7 @@
       "level": 55,
       "name": "Sigil of Malisis",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+400 Max HP"
       ],
@@ -2411,7 +2501,7 @@
       "level": 55,
       "name": "Haunted Sigil of Malisis",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+400 Max HP"
       ],
@@ -2421,7 +2511,7 @@
       "level": 55,
       "name": "Jade Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+300 Max HP",
         "+50% Knockback Reduction"
@@ -2432,7 +2522,7 @@
       "level": 55,
       "name": "Ghostflame Greataxe",
       "class": "Paladin",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+71 Physical ATK"
       ],
@@ -2442,7 +2532,7 @@
       "level": 55,
       "name": "Haunted Ghostflame Greataxe",
       "class": "Paladin",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+71 Physical ATK"
       ],
@@ -2452,7 +2542,7 @@
       "level": 55,
       "name": "Jade Warhammer",
       "class": "Paladin",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+71 Physical ATK",
         "+11 STR",
@@ -2464,7 +2554,7 @@
       "level": 55,
       "name": "Captain's Cutlass",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Captain's Command"
     },
@@ -2472,7 +2562,7 @@
       "level": 55,
       "name": "Flintlock Pistol",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Flintlock Shot"
     },
@@ -2480,7 +2570,7 @@
       "level": 55,
       "name": "Ice Pickaxe",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+5% Critcal Chance",
         "+5% Critical Damage",
@@ -2492,7 +2582,7 @@
       "level": 55,
       "name": "North Polearm",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+71 Physical ATK",
         "+10% Ability Radius",
@@ -2504,7 +2594,7 @@
       "level": 55,
       "name": "Snowglobe Staff",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+3 DEX",
         "+10 INT"
@@ -2515,7 +2605,7 @@
       "level": 55,
       "name": "Revolver",
       "class": "Adventurer",
-      "atk": "177",
+      "atk": 177,
       "stats": [],
       "perk": "Revolver Shot"
     },
@@ -2543,7 +2633,7 @@
       "level": 57,
       "name": "Gilded Bow",
       "class": "Hunter",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+5% Critical Chance",
         "+5 DEX"
@@ -2554,7 +2644,7 @@
       "level": 57,
       "name": "Sacrificial Staff",
       "class": "Mage",
-      "atk": "177",
+      "atk": 177,
       "stats": [
         "+200 Max HP",
         "+50% HP Recovery"
@@ -2565,7 +2655,7 @@
       "level": 57,
       "name": "Gilded Sun Staff",
       "class": "Mage",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+5% Ability Radius",
         "+5 INT"
@@ -2576,7 +2666,7 @@
       "level": 57,
       "name": "Ancient Slab",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+48 Magic ATK",
         "+3% Magic Damage Increase"
@@ -2587,7 +2677,7 @@
       "level": 57,
       "name": "Coronal Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+45 Magic ATK",
         "+5% Heal & Shield Power"
@@ -2598,7 +2688,7 @@
       "level": 57,
       "name": "Gilded Khopesh",
       "class": "Warrior",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+10% Ability Radius",
         "+5 DEX"
@@ -2609,7 +2699,7 @@
       "level": 57,
       "name": "Gilded Bastion",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+350 Max HP",
         "+10% Block Chance"
@@ -2620,7 +2710,7 @@
       "level": 57,
       "name": "Aqrabuamelu Sabre",
       "class": "Warrior",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+74 Physical ATK",
         "+1 Stamina",
@@ -2632,7 +2722,7 @@
       "level": 57,
       "name": "Crystal Aqrabuamelu Sabre",
       "class": "Warrior",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+74 Physical ATK",
         "+1.5 Stamina",
@@ -2644,7 +2734,7 @@
       "level": 57,
       "name": "Tal-rey's Fist",
       "class": "Paladin",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+74 Physical ATK",
         "+100 Max MP",
@@ -2656,7 +2746,7 @@
       "level": 57,
       "name": "Gilded Palm Axe",
       "class": "Warrior",
-      "atk": "183",
+      "atk": 183,
       "stats": [
         "+74 Physical ATK",
         "+10% Critical Chance",
@@ -2671,7 +2761,8 @@
       "atk": 186,
       "stats": [
         "+10% Critical Chance"
-      ]
+      ],
+      "perk": ""
     },
     {
       "level": 60,
@@ -2776,7 +2867,7 @@
       "level": 60,
       "name": "Skeletal Bow",
       "class": "Hunter",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Bone Piercer"
     },
@@ -2784,7 +2875,7 @@
       "level": 60,
       "name": "Sinew Bow",
       "class": "Hunter",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Constriction"
     },
@@ -2792,7 +2883,7 @@
       "level": 60,
       "name": "Molten Bow",
       "class": "Hunter",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Molten Lava"
     },
@@ -2800,7 +2891,7 @@
       "level": 60,
       "name": "Quantum Bow",
       "class": "Hunter",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+5% Critical Chance",
         "+15% ATK Speed"
@@ -2832,7 +2923,7 @@
       "level": 60,
       "name": "Champion's Tambourine",
       "class": "Bard",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+60 Magic ATK",
         "+50 Max MP",
@@ -2844,7 +2935,7 @@
       "level": 60,
       "name": "Skeletal Staff",
       "class": "Mage",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Mana Skull"
     },
@@ -2852,7 +2943,7 @@
       "level": 60,
       "name": "Brain Staff",
       "class": "Mage",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+10% Ability Radius"
       ],
@@ -2862,7 +2953,7 @@
       "level": 60,
       "name": "Crystal Spear",
       "class": "Mage",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+5 INT"
       ],
@@ -2872,7 +2963,7 @@
       "level": 60,
       "name": "Dragon Eye Staff",
       "class": "Mage",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+10% Ability Radius"
       ],
@@ -2882,7 +2973,7 @@
       "level": 60,
       "name": "Sinew Scythe",
       "class": "Mage",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Constriction"
     },
@@ -2890,7 +2981,7 @@
       "level": 60,
       "name": "Midnight Scepter",
       "class": "Mage",
-      "atk": "181",
+      "atk": 181,
       "stats": [
         "+6% Magical Damage Increase"
       ],
@@ -2900,7 +2991,7 @@
       "level": 60,
       "name": "Sun God's Ankh",
       "class": "Sorcerer",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+6% Magical Damage Increase",
         "+5 INT"
@@ -2911,7 +3002,7 @@
       "level": 60,
       "name": "Nanotech Staff",
       "class": "Mage",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+3% Magical Damage Increase",
         "+10 INT"
@@ -2922,7 +3013,7 @@
       "level": 60,
       "name": "Gobbletron Effigy",
       "class": "Mage",
-      "atk": "186",
+      "atk": 186,
       "stats": [
         "+5 INT"
       ],
@@ -2971,7 +3062,7 @@
       "level": 60,
       "name": "Chainloom Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+50 Magic ATK",
         "+3 INT",
@@ -2983,7 +3074,7 @@
       "level": 60,
       "name": "Frontier Spellbook",
       "class": "Mage",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+77 Physical ATK",
         "+10 DEX",
@@ -2995,7 +3086,7 @@
       "level": 60,
       "name": "Fusion Tome",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+51 Magic ATK",
         "+5% Ability Radius"
@@ -3006,7 +3097,7 @@
       "level": 60,
       "name": "Dragonsbane",
       "class": "Warrior",
-      "atk": "186",
+      "atk": 186,
       "stats": [
         "+10% Critical Damage"
       ],
@@ -3016,14 +3107,15 @@
       "level": 60,
       "name": "Minoaxe",
       "class": "Warrior",
-      "atk": "191",
-      "stats": []
+      "atk": 191,
+      "stats": [],
+      "perk": ""
     },
     {
       "level": 60,
       "name": "Skeletal Sword",
       "class": "Warrior",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Rattling Slash"
     },
@@ -3031,7 +3123,7 @@
       "level": 60,
       "name": "Crystal Mace",
       "class": "Warrior",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+5 STR"
       ],
@@ -3041,7 +3133,7 @@
       "level": 60,
       "name": "Infernal Sword",
       "class": "Warrior",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "-50 Max HP",
         "+10% Critical Chance"
@@ -3052,7 +3144,7 @@
       "level": 60,
       "name": "Sinew Sword",
       "class": "Warrior",
-      "atk": "186",
+      "atk": 186,
       "stats": [],
       "perk": "Constriction"
     },
@@ -3060,7 +3152,7 @@
       "level": 60,
       "name": "Holobrand",
       "class": "Warrior",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+1 Stamina",
         "+10 STR"
@@ -3071,7 +3163,7 @@
       "level": 60,
       "name": "Gobbletron Engine",
       "class": "Warrior",
-      "atk": "186",
+      "atk": 186,
       "stats": [
         "+5 STR"
       ],
@@ -3119,7 +3211,7 @@
       "level": 60,
       "name": "Skeletal Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+5% Ability Radius",
         "+300 Max HP",
@@ -3131,7 +3223,7 @@
       "level": 60,
       "name": "Forceshield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+400 Max HP",
         "+10% Warding"
@@ -3142,7 +3234,7 @@
       "level": 60,
       "name": "Champion's Aegis",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+400 Max HP",
         "+50 Max MP",
@@ -3154,7 +3246,7 @@
       "level": 60,
       "name": "Hellscream Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+300 Max HP",
         "+5% Block Chance",
@@ -3166,7 +3258,7 @@
       "level": 60,
       "name": "Mushroom Shield",
       "class": "Knight",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+250 Max HP",
         "+2 Walkspeed"
@@ -3177,7 +3269,7 @@
       "level": 60,
       "name": "Malich's Edge",
       "class": "Paladin",
-      "atk": "186",
+      "atk": 186,
       "stats": [
         "+75 Physical ATK",
         "+3% Magical Damage Increase"
@@ -3188,7 +3280,7 @@
       "level": 60,
       "name": "Frontier Greatsword",
       "class": "Warrior",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+77 Physical ATK",
         "+10 DEX",
@@ -3200,7 +3292,7 @@
       "level": 60,
       "name": "Soul Splitter",
       "class": "Berserker or Paladin",
-      "atk": "186",
+      "atk": 186,
       "stats": [
         "+75 Physical ATK",
         "+10% Critical Chance"
@@ -3211,7 +3303,7 @@
       "level": 60,
       "name": "Nova Mace",
       "class": "Paladin",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+77 Physical ATK",
         "+5% Ability Radius",
@@ -3235,7 +3327,7 @@
       "level": 60,
       "name": "Ratboy Dartgun",
       "class": "Adventurer",
-      "atk": "191",
+      "atk": 191,
       "stats": [
         "+10% ATK Speed"
       ],
@@ -3245,7 +3337,7 @@
       "level": 60,
       "name": "Cornucopia",
       "class": "Adventurer",
-      "atk": "30",
+      "atk": 30,
       "stats": [
         "+10% Heal & Shield Power"
       ],
@@ -3255,7 +3347,7 @@
       "level": 60,
       "name": "Champion's Vial",
       "class": "Mage",
-      "atk": "",
+      "atk": null,
       "stats": [
         "+45 Magic ATK",
         "+25% MP Recovery",
@@ -3270,8 +3362,7 @@
         "level": 1,
         "name": "Aviators",
         "class": "Adventurer",
-        "stats": [],
-        "perk": "You Look Great"
+        "stats": []
       },
       {
         "level": 1,
@@ -3335,8 +3426,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3344,8 +3434,7 @@
         "class": "Adventurer",
         "stats": [
           "+5% XP"
-        ],
-        "perk": "Trick or Treat II"
+        ]
       },
       {
         "level": 2,
@@ -3353,8 +3442,7 @@
         "class": "Adventurer",
         "stats": [
           "+15% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3362,8 +3450,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3372,8 +3459,7 @@
         "stats": [
           "+15 DEX",
           "+10% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3381,8 +3467,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3390,8 +3475,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3399,8 +3483,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3408,8 +3491,7 @@
         "class": "Adventurer",
         "stats": [
           "+5% XP"
-        ],
-        "perk": "Trick or TreatII"
+        ]
       },
       {
         "level": 2,
@@ -3418,8 +3500,7 @@
         "stats": [
           "+15 INT",
           "+10% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3443,8 +3524,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3453,8 +3533,7 @@
         "stats": [
           "+15 STR",
           "+10% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 2,
@@ -3462,8 +3541,7 @@
         "class": "Adventurer",
         "stats": [
           "+20% XP"
-        ],
-        "perk": "Trick or Treat III"
+        ]
       },
       {
         "level": 3,
@@ -3498,8 +3576,7 @@
         "class": "Adventurer",
         "stats": [
           "+5 DEF"
-        ],
-        "perk": "Mysterious Aura"
+        ]
       },
       {
         "level": 5,
@@ -3518,8 +3595,7 @@
         "stats": [
           "+3 STR",
           "+3 DEX"
-        ],
-        "perk": "Trick or Treat"
+        ]
       },
       {
         "level": 5,
@@ -3568,8 +3644,7 @@
         "class": "Adventurer",
         "stats": [
           "+10 Festivity"
-        ],
-        "perk": "Snow Lover"
+        ]
       },
       {
         "level": 10,
@@ -3596,8 +3671,7 @@
         "class": "Adventurer",
         "stats": [
           "+10% Ability Radius"
-        ],
-        "perk": "Leave Snow Survivors"
+        ]
       },
       {
         "level": 13,
@@ -3615,8 +3689,7 @@
         "stats": [
           "+12 STR",
           "+6 INT"
-        ],
-        "perk": "Warlord Slam"
+        ]
       },
       {
         "level": 15,
@@ -3706,8 +3779,7 @@
         "stats": [
           "+15% Damage Dealt",
           "+6 PvE Walkspeed"
-        ],
-        "perk": "Horsin' Around"
+        ]
       },
       {
         "level": 20,
@@ -3727,8 +3799,7 @@
           "+70 Max HP",
           "+35% MP Recovery",
           "+9 Jump"
-        ],
-        "perk": "Bounce Like a Shroom"
+        ]
       },
       {
         "level": 20,
@@ -3808,8 +3879,7 @@
           "+9 STR",
           "-6 INT",
           "+9 DEX"
-        ],
-        "perk": "King of the Sewers"
+        ]
       },
       {
         "level": 25,
@@ -3925,8 +3995,7 @@
         "stats": [
           "+15% Critical Chance",
           "+20 DEX"
-        ],
-        "perk": "Vampire's Curse"
+        ]
       },
       {
         "level": 30,
@@ -3954,8 +4023,7 @@
         "class": "Songweaver",
         "stats": [
           "+20 INT"
-        ],
-        "perk": "Stage Prescence"
+        ]
       },
       {
         "level": 30,
@@ -3972,8 +4040,7 @@
         "class": "Warrior",
         "stats": [
           "+20 STR"
-        ],
-        "perk": "Accursed Aura"
+        ]
       },
       {
         "level": 30,
@@ -3991,8 +4058,7 @@
           "+2 Stamina",
           "-10% Stamina Drain",
           "+2 Walkspeed"
-        ],
-        "perk": "Skittish Instincts"
+        ]
       },
       {
         "level": 30,
@@ -4002,8 +4068,7 @@
           "+10 Festivity",
           "+10 INT",
           "+5% Fortune"
-        ],
-        "perk": "Chilling Gale"
+        ]
       },
       {
         "level": 32,
@@ -4036,8 +4101,7 @@
         "class": "Mage",
         "stats": [
           "+20 INT"
-        ],
-        "perk": "Haunted Aura"
+        ]
       },
       {
         "level": 33,
@@ -4076,8 +4140,7 @@
         "stats": [
           "+10% Critical Damage",
           "+10 DEX"
-        ],
-        "perk": "Sharkpo"
+        ]
       },
       {
         "level": 35,
@@ -4086,8 +4149,7 @@
         "stats": [
           "+10% Ability Radius",
           "+10 INT"
-        ],
-        "perk": "Storm Surge"
+        ]
       },
       {
         "level": 35,
@@ -4096,8 +4158,7 @@
         "stats": [
           "+10% Critical Chance",
           "+10 STR"
-        ],
-        "perk": "Shark Bite"
+        ]
       },
       {
         "level": 40,
@@ -4106,8 +4167,7 @@
         "stats": [
           "+25 DEX",
           "+5 VIT"
-        ],
-        "perk": "Auktufiti's Precision"
+        ]
       },
       {
         "level": 40,
@@ -4116,8 +4176,7 @@
         "stats": [
           "+5% Block Chance",
           "+25 DEX"
-        ],
-        "perk": "Jester's Curse"
+        ]
       },
       {
         "level": 40,
@@ -4126,8 +4185,7 @@
         "stats": [
           "+5% Block Chance",
           "+25 DEX"
-        ],
-        "perk": "Jester's Curse"
+        ]
       },
       {
         "level": 40,
@@ -4161,8 +4219,7 @@
         "stats": [
           "+30% Ability Radius",
           "+25 INT"
-        ],
-        "perk": "Elf's Curse"
+        ]
       },
       {
         "level": 40,
@@ -4171,8 +4228,7 @@
         "stats": [
           "+30% Ability Radius",
           "+25 INT"
-        ],
-        "perk": "Elf's Curse"
+        ]
       },
       {
         "level": 40,
@@ -4181,8 +4237,7 @@
         "stats": [
           "+25 STR",
           "+5 VIT"
-        ],
-        "perk": "Azariah's Bloodthirst"
+        ]
       },
       {
         "level": 40,
@@ -4256,8 +4311,7 @@
         "stats": [
           "+15 DEX",
           "+10 STR"
-        ],
-        "perk": "Fish Throw"
+        ]
       },
       {
         "level": 45,
@@ -4265,8 +4319,7 @@
         "class": "Adventurer",
         "stats": [
           "+45 DEX"
-        ],
-        "perk": "Not Enough Room..."
+        ]
       },
       {
         "level": 45,
@@ -4276,8 +4329,7 @@
           "+5% Block Chance",
           "+30 STR",
           "+10 Festivity"
-        ],
-        "perk": "Crumble"
+        ]
       },
       {
         "level": 45,
@@ -4287,8 +4339,7 @@
           "+75 Max MP",
           "+10 Festivity",
           "+30 INT"
-        ],
-        "perk": "Crumble"
+        ]
       },
       {
         "level": 45,
@@ -4298,8 +4349,7 @@
           "+150 Max HP",
           "+10 Festivity",
           "+30 VIT"
-        ],
-        "perk": "Crumble"
+        ]
       },
       {
         "level": 45,
@@ -4309,8 +4359,7 @@
           "+1 Stamina",
           "+30 DEX",
           "+10 Festivity"
-        ],
-        "perk": "Crumble"
+        ]
       },
       {
         "level": 45,
@@ -4347,8 +4396,7 @@
         "stats": [
           "+1 Stamina",
           "+10 VIT"
-        ],
-        "perk": "Retaliation"
+        ]
       },
       {
         "level": 47,
@@ -4363,8 +4411,7 @@
         "level": 47,
         "name": "Mysterious Orange Hat",
         "class": "Adventurer",
-        "stats": [],
-        "perk": "Coned"
+        "stats": []
       },
       {
         "level": 47,
@@ -4380,8 +4427,7 @@
           "-1 Walkspeed",
           "+18 VIT",
           "-1 Jump"
-        ],
-        "perk": "Diver's Aptitude"
+        ]
       },
       {
         "level": 49,
@@ -4392,8 +4438,7 @@
           "+20 VIT",
           "-40 INT",
           "+4 DEX"
-        ],
-        "perk": "Force Absorption"
+        ]
       },
       {
         "level": 49,
@@ -4402,8 +4447,7 @@
         "stats": [
           "+100 Max MP",
           "+19 INT"
-        ],
-        "perk": "Meditative"
+        ]
       },
       {
         "level": 50,
@@ -4412,8 +4456,7 @@
         "stats": [
           "+30 DEX",
           "+5 INT"
-        ],
-        "perk": "Bubble Barrage"
+        ]
       },
       {
         "level": 50,
@@ -4422,8 +4465,7 @@
         "stats": [
           "+15 VIT",
           "+15 DEX"
-        ],
-        "perk": "Harvest"
+        ]
       },
       {
         "level": 50,
@@ -4449,8 +4491,7 @@
         "stats": [
           "+1 Stamina",
           "+35 STR"
-        ],
-        "perk": "Piercing Roar + Grizzley Roar"
+        ]
       },
       {
         "level": 50,
@@ -4458,8 +4499,7 @@
         "class": "Mage",
         "stats": [
           "+35 INT"
-        ],
-        "perk": "Compassionate Flare"
+        ]
       },
       {
         "level": 50,
@@ -4468,8 +4508,7 @@
         "stats": [
           "+5% Critical Chance",
           "+20 INT"
-        ],
-        "perk": "Critical Concoction"
+        ]
       },
       {
         "level": 50,
@@ -4487,8 +4526,7 @@
         "stats": [
           "+50 Max MP",
           "+27 INT"
-        ],
-        "perk": "Mana Tag + Mana Poison"
+        ]
       },
       {
         "level": 50,
@@ -4496,8 +4534,7 @@
         "class": "Warrior",
         "stats": [
           "+35 STR"
-        ],
-        "perk": "Forceful Consecrate"
+        ]
       },
       {
         "level": 50,
@@ -4506,8 +4543,7 @@
         "stats": [
           "+5% Block Chance",
           "+20 STR"
-        ],
-        "perk": "Haunting Spirit"
+        ]
       },
       {
         "level": 50,
@@ -4526,8 +4562,7 @@
         "stats": [
           "+35 Defense",
           "+33 STR"
-        ],
-        "perk": "Slowing Thorns + Lightning Thorns"
+        ]
       },
       {
         "level": 50,
@@ -4627,8 +4662,7 @@
         "stats": [
           "+33 DEX",
           "+5 VIT"
-        ],
-        "perk": "Dragon Flurry"
+        ]
       },
       {
         "level": 55,
@@ -4648,8 +4682,7 @@
         "stats": [
           "+5 VIT",
           "+33 INT"
-        ],
-        "perk": "Dragon Pillage"
+        ]
       },
       {
         "level": 55,
@@ -4658,8 +4691,7 @@
         "stats": [
           "+33 STR",
           "+5 VIT"
-        ],
-        "perk": "Dragon Dive"
+        ]
       },
       {
         "level": 55,
@@ -4670,8 +4702,7 @@
           "+12 VIT",
           "+12 INT",
           "+12 DEX"
-        ],
-        "perk": "Commanding Aura"
+        ]
       },
       {
         "level": 57,
@@ -4680,8 +4711,7 @@
         "stats": [
           "+1 Stamina",
           "+35 DEX"
-        ],
-        "perk": "Falcon Mummy Shunpo"
+        ]
       },
       {
         "level": 57,
@@ -4689,8 +4719,7 @@
         "class": "Hunter",
         "stats": [
           "+40 DEX"
-        ],
-        "perk": "Agile Pounce"
+        ]
       },
       {
         "level": 57,
@@ -4698,8 +4727,7 @@
         "class": "Mage",
         "stats": [
           "+40 INT"
-        ],
-        "perk": "Rejuvenate"
+        ]
       },
       {
         "level": 57,
@@ -4708,8 +4736,7 @@
         "stats": [
           "+20 STR",
           "+20 VIT"
-        ],
-        "perk": "Undying Will"
+        ]
       },
       {
         "level": 57,
@@ -4718,8 +4745,7 @@
         "stats": [
           "+1 Stamina",
           "+35 STR"
-        ],
-        "perk": "Jackal Mummy Spin"
+        ]
       },
       {
         "level": 57,
@@ -4727,8 +4753,7 @@
         "class": "Warrior",
         "stats": [
           "+40 STR"
-        ],
-        "perk": "Whirlwind"
+        ]
       },
       {
         "level": 60,
@@ -4736,8 +4761,7 @@
         "class": "Hunter",
         "stats": [
           "+40 DEX"
-        ],
-        "perk": "Beastslayer"
+        ]
       },
       {
         "level": 60,
@@ -4745,8 +4769,7 @@
         "class": "Hunter",
         "stats": [
           "+40 DEX"
-        ],
-        "perk": "Death's Embrace"
+        ]
       },
       {
         "level": 60,
@@ -4754,8 +4777,7 @@
         "class": "Mage",
         "stats": [
           "+40 INT"
-        ],
-        "perk": "Ritualistic"
+        ]
       },
       {
         "level": 60,
@@ -4763,8 +4785,7 @@
         "class": "Mage",
         "stats": [
           "+40 INT"
-        ],
-        "perk": "Bone Zap"
+        ]
       },
       {
         "level": 60,
@@ -4773,8 +4794,7 @@
         "stats": [
           "+10% Stamina Recovery",
           "+40 INT"
-        ],
-        "perk": "Hive Pastor"
+        ]
       },
       {
         "level": 60,
@@ -4782,8 +4802,7 @@
         "class": "Warrior",
         "stats": [
           "+40 STR"
-        ],
-        "perk": "Cultic Halo"
+        ]
       },
       {
         "level": 60,
@@ -4791,8 +4810,7 @@
         "class": "Knight",
         "stats": [
           "+40 VIT"
-        ],
-        "perk": "The Best Defense + Brotherhood"
+        ]
       },
       {
         "level": 60,
@@ -4800,8 +4818,7 @@
         "class": "Warrior",
         "stats": [
           "+40 STR"
-        ],
-        "perk": "Skeletal Tenacity"
+        ]
       },
       {
         "level": 60,
@@ -4809,8 +4826,7 @@
         "class": "Warrior",
         "stats": [
           "+40 INT"
-        ],
-        "perk": "Zealot March"
+        ]
       },
       {
         "level": 60,
@@ -4830,8 +4846,7 @@
         "stats": [
           "+250 Max HP",
           "+25 VIT"
-        ],
-        "perk": "Bountiful Harvest"
+        ]
       },
       {
         "level": 60,
@@ -4840,8 +4855,7 @@
         "stats": [
           "+5% Heal & Shield Power",
           "+35 VIT"
-        ],
-        "perk": "Failsafe Protocol"
+        ]
       },
       {
         "level": 60,
@@ -4852,8 +4866,7 @@
           "+10 VIT",
           "+10 INT",
           "+10 DEX"
-        ],
-        "perk": "Eye See You"
+        ]
       },
       {
         "level": 60,
@@ -4862,8 +4875,7 @@
         "stats": [
           "+25% MP Recovery",
           "+30 INT"
-        ],
-        "perk": "Mana Overdraw"
+        ]
       },
       {
         "level": 60,
@@ -4884,7 +4896,8 @@
         "stats": [
           "+100 Kawaii",
           "+25% XP"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 1,
@@ -4895,21 +4908,24 @@
           "+50% HP Recovery",
           "+5 Jump",
           "+15% XP"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 2,
         "name": "Leather Tunic",
         "class": "Adventurer",
         "defense": 21,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 5,
         "name": "Wooden Shoulder Pads",
         "class": "Adventurer",
         "defense": 34,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 5,
@@ -4918,35 +4934,40 @@
         "defense": 39,
         "stats": [
           "-3 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 8,
         "name": "Pots and Pans",
         "class": "Adventurer",
         "defense": 44,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 10,
         "name": "Hunter Vest",
         "class": "Hunter",
         "defense": 50,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 10,
         "name": "Acolyte Robes",
         "class": "Mage",
         "defense": 50,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 10,
         "name": "Rusty Armor",
         "class": "Warrior",
         "defense": 50,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 10,
@@ -4965,7 +4986,8 @@
         "defense": 71,
         "stats": [
           "-2 Walkspeed"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 13,
@@ -4974,14 +4996,16 @@
         "defense": 64,
         "stats": [
           "+10% Block Chance"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 15,
         "name": "Bandit Vest",
         "class": "Hunter",
         "defense": 65,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 15,
@@ -4990,14 +5014,16 @@
         "defense": 70,
         "stats": [
           "+3 DEX"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 15,
         "name": "Apprentice Robes",
         "class": "Mage",
         "defense": 65,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 15,
@@ -5006,14 +5032,16 @@
         "defense": 70,
         "stats": [
           "+3 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 15,
         "name": "Bronze Armor",
         "class": "Warrior",
         "defense": 65,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 15,
@@ -5022,7 +5050,8 @@
         "defense": 70,
         "stats": [
           "+3 STR"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 17,
@@ -5031,7 +5060,8 @@
         "defense": 70,
         "stats": [
           "+22 Ranged ATK"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 18,
@@ -5040,7 +5070,8 @@
         "defense": 73,
         "stats": [
           "+5 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 20,
@@ -5051,14 +5082,16 @@
           "+50% HP Recovery",
           "+5 Jump",
           "+25% XP"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 21,
         "name": "Skirmisher Vest",
         "class": "Hunter",
         "defense": 80,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 21,
@@ -5068,14 +5101,16 @@
         "stats": [
           "+4 DEX",
           "+5% Fortune"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 21,
         "name": "Magus Robes",
         "class": "Mage",
         "defense": 80,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 21,
@@ -5085,14 +5120,16 @@
         "stats": [
           "+5% Fortune",
           "+4 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 21,
         "name": "Iron Armor",
         "class": "Warrior",
         "defense": 80,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 21,
@@ -5102,7 +5139,8 @@
         "stats": [
           "+4 STR",
           "+5% Fortune"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 24,
@@ -5112,7 +5150,8 @@
         "stats": [
           "+3 STR",
           "-2 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 25,
@@ -5122,7 +5161,8 @@
         "stats": [
           "+5% Warding",
           "+5 DEX"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 27,
@@ -5153,21 +5193,24 @@
         "name": "Marauder Vest",
         "class": "Hunter",
         "defense": 98,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 28,
         "name": "Lunar Robes",
         "class": "Mage",
         "defense": 98,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 28,
         "name": "Steel Armor",
         "class": "Warrior",
         "defense": 98,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 30,
@@ -5236,21 +5279,24 @@
         "name": "Embarker Vest",
         "class": "Hunter",
         "defense": 111,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 33,
         "name": "Surveyor Robes",
         "class": "Mage",
         "defense": 111,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 33,
         "name": "Nightstrider Armor",
         "class": "Warrior",
         "defense": 111,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 40,
@@ -5289,7 +5335,8 @@
         "name": "Sandskulker Vest",
         "class": "Hunter",
         "defense": 129,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 40,
@@ -5299,14 +5346,16 @@
         "stats": [
           "+15 VIT",
           "+5 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 40,
         "name": "Artificer's Robe",
         "class": "Mage",
         "defense": 129,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 40,
@@ -5344,7 +5393,8 @@
         "name": "Duneplate Cuirass",
         "class": "Warrior",
         "defense": 129,
-        "stats": []
+        "stats": [],
+        "perk": ""
       },
       {
         "level": 40,
@@ -5377,7 +5427,8 @@
         "stats": [
           "+10 Festivity",
           "+30% XP"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 40,
@@ -5397,7 +5448,8 @@
         "defense": 75,
         "stats": [
           "-2.5 Walkspeed"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 44,
@@ -5416,7 +5468,8 @@
         "defense": 100,
         "stats": [
           "+10% Block Chance"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 48,
@@ -5447,7 +5500,8 @@
         "stats": [
           "+2 Stamina",
           "+10 DEX"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 50,
@@ -5456,7 +5510,8 @@
         "defense": 164,
         "stats": [
           "+8 DEX"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 50,
@@ -5493,7 +5548,8 @@
         "defense": 164,
         "stats": [
           "+8 INT"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 50,
@@ -5530,7 +5586,8 @@
         "defense": 164,
         "stats": [
           "+8 STR"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 50,
@@ -5560,7 +5617,8 @@
           "+5% Block Chance",
           "+7 STR",
           "+5 DEX"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 55,
@@ -5622,7 +5680,8 @@
         "defense": 156,
         "stats": [
           "+15% Warding"
-        ]
+        ],
+        "perk": ""
       },
       {
         "level": 57,
@@ -5793,8 +5852,7 @@
         "stats": [
           "+2 Stamina",
           "+2 Jump"
-        ],
-        "perk": "Mushroom Bounce"
+        ]
       },
       {
         "level": 1,
@@ -5803,8 +5861,7 @@
         "stats": [
           "+2 Stamina",
           "+2 Jump"
-        ],
-        "perk": "Mushroom Bounce"
+        ]
       },
       {
         "level": 2,
@@ -5821,15 +5878,13 @@
         "stats": [
           "+1 Stamina",
           "+3 Jump"
-        ],
-        "perk": "Skip and Hop"
+        ]
       },
       {
         "level": 10,
         "name": "Frozen Skates",
         "class": "Adventurer",
-        "stats": [],
-        "perk": "Frosty Feet"
+        "stats": []
       },
       {
         "level": 15,
@@ -5962,8 +6017,7 @@
           "+2 Stamina",
           "+1.5 Walkspeed",
           "+5 DEX"
-        ],
-        "perk": "Vampiric Aura"
+        ]
       },
       {
         "level": 30,
@@ -5995,8 +6049,7 @@
           "+2 Stamina",
           "-1 Walkspeed",
           "+5 DEX"
-        ],
-        "perk": "Accursed Aura"
+        ]
       },
       {
         "level": 30,
@@ -6005,8 +6058,7 @@
         "stats": [
           "+1.5 Stamina",
           "+3 Walkspeed"
-        ],
-        "perk": "Dunestrider"
+        ]
       },
       {
         "level": 30,
@@ -6017,8 +6069,7 @@
           "+3 Jump",
           "+5 DEX",
           "+10 Festivity"
-        ],
-        "perk": "Ice Climber"
+        ]
       },
       {
         "level": 40,
@@ -6027,8 +6078,7 @@
         "stats": [
           "+1 Stamina",
           "+2 Walkspeed"
-        ],
-        "perk": "Auktufiti's Precision"
+        ]
       },
       {
         "level": 40,
@@ -6037,8 +6087,7 @@
         "stats": [
           "+10% Block Chance",
           "+4 Walkspeed"
-        ],
-        "perk": "Jester's Curse"
+        ]
       },
       {
         "level": 40,
@@ -6047,8 +6096,7 @@
         "stats": [
           "+10% Block Chance",
           "+4 Walkspeed"
-        ],
-        "perk": "Jester's Curse"
+        ]
       },
       {
         "level": 40,
@@ -6066,8 +6114,7 @@
         "stats": [
           "+1 Stamina",
           "+2 Walkspeed"
-        ],
-        "perk": "Azariah's Bloodthirst"
+        ]
       },
       {
         "level": 40,
@@ -6085,8 +6132,7 @@
           "+2 Stamina",
           "+10% Warding",
           "+7 INT"
-        ],
-        "perk": "Ethera's Curse"
+        ]
       },
       {
         "level": 40,
@@ -6096,8 +6142,7 @@
           "+2 Stamina",
           "+10% Warding",
           "+7 INT"
-        ],
-        "perk": "Ethera's Curse"
+        ]
       },
       {
         "level": 40,
@@ -6135,8 +6180,7 @@
         "stats": [
           "+2 Stamina",
           "+12 DEX"
-        ],
-        "perk": "It's High Noon"
+        ]
       },
       {
         "level": 45,
@@ -6156,8 +6200,7 @@
           "+3 Stamina",
           "+30% Swim Speed",
           "-2 Walkspeed"
-        ],
-        "perk": "Diver's Aptitude"
+        ]
       },
       {
         "level": 50,
@@ -6212,8 +6255,7 @@
         "stats": [
           "+2 Stamina",
           "+10 STR"
-        ],
-        "perk": "Hill Roller"
+        ]
       },
       {
         "level": 50,
@@ -6290,8 +6332,7 @@
         "stats": [
           "+4 Walkspeed",
           "+10 Festivity"
-        ],
-        "perk": "Crumble"
+        ]
       },
       {
         "level": 57,
@@ -6300,8 +6341,7 @@
         "stats": [
           "+2 Stamina",
           "+2 Walkspeed"
-        ],
-        "perk": "Silent Approach"
+        ]
       },
       {
         "level": 57,
@@ -6311,8 +6351,7 @@
           "+2 Stamina",
           "+20% Knockback Reduction",
           "+10 STR"
-        ],
-        "perk": "Undying Will"
+        ]
       },
       {
         "level": 57,
@@ -6322,8 +6361,7 @@
           "-10% Stamina Drain",
           "+10% Block Chance",
           "+2 Walkspeed"
-        ],
-        "perk": "Helio's Judgement"
+        ]
       },
       {
         "level": 60,
@@ -6333,8 +6371,7 @@
           "+1 Stamina",
           "+5 DEX",
           "+2 Walkspeed"
-        ],
-        "perk": "Beastslayer"
+        ]
       },
       {
         "level": 60,
@@ -6343,8 +6380,7 @@
         "stats": [
           "-20% Stamina Drain",
           "+5 Jump"
-        ],
-        "perk": "Hive Pastor"
+        ]
       },
       {
         "level": 60,
@@ -6354,8 +6390,7 @@
           "+1 Stamina",
           "+2 Walkspeed",
           "+5 STR"
-        ],
-        "perk": "Cultic Halo"
+        ]
       },
       {
         "level": 60,
@@ -6366,8 +6401,7 @@
           "+3 Stamina",
           "-6 Jump",
           "-1.5 Walkspeed"
-        ],
-        "perk": "Brotherhood + Boundless"
+        ]
       },
       {
         "level": 60,
@@ -6377,8 +6411,7 @@
           "+1 Stamina",
           "+2 Walkspeed",
           "+5 INT"
-        ],
-        "perk": "Zealot March"
+        ]
       },
       {
         "level": 60,
@@ -6400,8 +6433,7 @@
           "+3 INT",
           "+3 DEX",
           "+3 VIT"
-        ],
-        "perk": "Clunky Shoes"
+        ]
       },
       {
         "level": 60,
@@ -6410,8 +6442,7 @@
         "stats": [
           "+1.5 Stamina",
           "+30% Knockback Reduction"
-        ],
-        "perk": "Bountiful Harvest"
+        ]
       },
       {
         "level": 60,
@@ -6421,8 +6452,7 @@
           "+2 Stamina",
           "+5 INT",
           "+2 Walkspeed"
-        ],
-        "perk": "Mana Overdraw"
+        ]
       }
     ]
   }
